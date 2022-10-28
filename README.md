@@ -1,7 +1,7 @@
 # EOSS-Radio-RaBe
 
 
-Radio RaBe // Business Model 
+Business Model 
 
 Radio RaBe is a non-commercial radio station on a community basis. The station is financed through membership fees of its estamiately 1000 members. It is able to offerr a 24-hour program without any advertisement. 
 RaBe aims at a divers, multilingual program developed by about 200 works in 13 languages. 
@@ -10,3 +10,9 @@ The remaining two membership levels aim at institutions and companies and start 
 To advertise its membership program RaBe offers a multitude of discounts for different shop, restaurants and cultural sites. 
 
 In June 2011 RaBe also was nominated with the Cultural Prize of Berne, which included a cash award of 30'000 Swiss Francs. 
+
+
+Policies
+
+IT-Gruppe basiert auf Freiwilligenarbeit.
+Ich konnte keine Policy finden, was mich zur Annahme führt, dass keine offizielle Open-Source-Policy existiert.
